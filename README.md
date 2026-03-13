@@ -1,6 +1,3 @@
-Here is your updated `README.md` with a clear explanation of the approach, refined structure, and consistent formatting, while keeping everything professional and without emojis:
-
----
 
 # Cricket Match Win Predictor
 
